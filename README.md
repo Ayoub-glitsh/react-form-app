@@ -189,3 +189,7 @@ This project is licensed under the MIT License.
 --- 
 
 
+<p align="center">
+  <img src="public/giphy.webp" width="800" >
+</p>
+
