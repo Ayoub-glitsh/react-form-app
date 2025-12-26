@@ -95,27 +95,6 @@ npm run build
 ```
 
 ---
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a branch: `git checkout -b feature/new-feature`
-3. Commit changes
-4. Push and open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
-
-⭐ Made with by Ayoub Aguezar
-
---- 
-
-
 ## 🧰 Technology Stack
 
 ### 📝 Languages
@@ -173,4 +152,26 @@ This project is licensed under the MIT License.
 ---
 
 > 🚀 **50+ technologies, tools, and best practices used**
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a branch: `git checkout -b feature/new-feature`
+3. Commit changes
+4. Push and open a Pull Request
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License.
+
+---
+
+⭐ Made with by Ayoub Aguezar
+
+--- 
+
 
