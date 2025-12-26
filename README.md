@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=700&lines=Responsive+React+Form+Application" />
+</p>
+
+
 # Responsive React Form Application
 
 A modern, multi-step form application built with React featuring responsive design, real-time validation, and a clean user interface.
