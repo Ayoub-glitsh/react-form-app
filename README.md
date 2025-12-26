@@ -112,3 +112,65 @@ This project is licensed under the MIT License.
 ---
 
 ⭐ Made with by Ayoub Aguezar
+
+--- 
+
+
+## 🧰 Technology Stack
+
+### 📝 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![JSX](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+
+---
+
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React DOM](https://img.shields.io/badge/React_DOM-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Create React App](https://img.shields.io/badge/Create_React_App-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=000)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=fff)
+
+---
+
+### 🎨 Styling & Layout
+![CSS Grid](https://img.shields.io/badge/CSS_Grid-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![CSS Variables](https://img.shields.io/badge/CSS_Variables-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Media Queries](https://img.shields.io/badge/Media_Queries-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![CSS Animations](https://img.shields.io/badge/CSS_Animations-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+
+---
+
+### 🛠️ Tools & Tooling
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=fff)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
+![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=fff)
+![Web Vitals](https://img.shields.io/badge/Web_Vitals-4285F4?style=for-the-badge&logo=google&logoColor=fff)
+
+---
+
+### 🌐 Web Standards & APIs
+![DOM API](https://img.shields.io/badge/DOM_API-000000?style=for-the-badge&logo=html5&logoColor=fff)
+![Fetch API](https://img.shields.io/badge/Fetch_API-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Storage API](https://img.shields.io/badge/Storage_API-000000?style=for-the-badge&logo=html5&logoColor=fff)
+![HTML5 APIs](https://img.shields.io/badge/HTML5_APIs-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+
+---
+
+### 🧠 Design Patterns & Principles
+![Mobile First](https://img.shields.io/badge/Mobile_First-0A66C2?style=for-the-badge)
+![Component Based](https://img.shields.io/badge/Component_Based-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-4CAF50?style=for-the-badge)
+
+---
+
+> 🚀 **50+ technologies, tools, and best practices used**
+
