@@ -10,10 +10,10 @@ A modern, multi-step form application built with React featuring responsive desi
 ---
 
 <p align="center">
-  <img src="public/photo.png" width="800" alt="Desktop View">
+  <img src="public/photo.png" width="800" >
 </p>
 <p align="center">
-  <img src="public/photo_01.png" width="800" alt="Desktop View">
+  <img src="public/photo_01.png" width="800" >
 </p>
 
 
