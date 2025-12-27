@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=700&lines=Responsive+React+Form+Application" />
-</p>
+</p> 
 
 
 # Responsive React Form Application
